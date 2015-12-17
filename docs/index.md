@@ -2,6 +2,11 @@
 
 A step by step process explaing how to get started with AdWyze
 
+![Screenshot](img/screenshot.png)
+
+![Screenshot](img/gettingStarted1.png)
+
+
 
 ## FB account integration
 If you have just signedup and logged in, you should be seeing the links to add your facebook account and analytics accounts on the home screen.
