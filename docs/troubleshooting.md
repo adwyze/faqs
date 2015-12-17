@@ -13,7 +13,7 @@ If that's the error you are seeing, then you should be linking your facebook pag
 ### How to deactivate connected accounts?
 
 
-### Why numbers don't match between GA & Adwyze ?
+### Why don't the numbers match between GA & Adwyze ?
 This occurs if you have some campaigns created out of AdWyze platform without the utm tags added correctly. 
 We need all these utm tags mapped correctly.
 
