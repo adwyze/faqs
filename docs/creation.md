@@ -45,3 +45,6 @@ This ad gets saved in the adset.
 Right now, the platform doesn't allow you to edit campaigns. However, you can edit a saved template or add more ads 
 into adsets of any existing campaign.
 
+### Campaigns history?
+You can see the “History” of the campaigns you created. Go to **Stats → History**
+
