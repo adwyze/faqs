@@ -12,6 +12,7 @@ pages:
 - Preferences: preferences.md
 - Billing: billing.md
 - Support: support.md
+- "How-to Screencasts": videos.md
 
 
 theme: cosmo
