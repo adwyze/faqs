@@ -4,7 +4,8 @@ pages:
 - "Getting Started": gettingStarted.md
 - "Latest Updates": updates.md
 - Integrations: integrations.md
-- "FB Campagins": creation.md
+- Campagins: creation.md
+- "Facebook Campaigns": fbcampaigns.md
 - Rules: rules.md
 - Insights: insights.md
 - Troubleshooting: troubleshooting.md
