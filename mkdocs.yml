@@ -1,6 +1,5 @@
 site_name: Adwyze Documentation
 pages:
-- Home: index.md
 - "Getting Started": gettingStarted.md
 - "Latest Updates": updates.md
 - Integrations: integrations.md
