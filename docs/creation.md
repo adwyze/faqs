@@ -1,6 +1,15 @@
 This page walks you through the FAQs in campaign creation.
 
 
+![Screenshot](img/creation1.png)
+
+1. Go to Created → Ad creation
+2. Choose a global template (you can save ad settings as global templates to reuse)
+3. Create facebook ads
+4. Create Instragram ads - You do not need to link your instagram account. The instagram accounts run from your linked facebook ad account
+
+
+
 ### What are global templates?
 You campaign settings can be reused (cloned to save time) allowing you to modify only the fields that you want to change while creating a new campaign.
 
