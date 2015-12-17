@@ -14,20 +14,28 @@ You can see your default timezone and the country in this section. Please note t
 You can enable or disable daily/weekly performance reports in this section.
 
 
+
 ## FAQs
 
 ** How do I change timezone **
+
 Once you select a timezone after signing up, it cannot be changed.
 
+
 ** How do I change my currency? **
+
 Once you select 
 
+
 ** What all rule notifications can I get? **
+
 You can receive notifications for
 - Weekly reports
 - Daily
 - The metrics that you want to show in the email and
 - Rule preferences
 
+
 ** How do I add more users to receive emails? **
+
 In the preferences page, you can enter comma seperated emails for the people to whom you want to send the performance reports
