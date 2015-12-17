@@ -1,0 +1,7 @@
+site_name: Adwyze Documentation
+pages:
+- Home: index.md
+- "Getting Started": gettingStarted.md
+- Creation: creation.md
+- Rules: rules.md
+theme: readthedocs
