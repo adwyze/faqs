@@ -2,6 +2,16 @@ site_name: Adwyze Documentation
 pages:
 - Home: index.md
 - "Getting Started": gettingStarted.md
-- Creation: creation.md
+- "Latest Updates": updates.md
+- Integrations: integrations.md
+- "FB Campagins": campaignCreation.md
 - Rules: rules.md
+- Insights: insights.md
+- Troubleshooting: troubleshooting.md
+- Stats: reports.md
+- Settings: settings.md
+- Billing: billing.md
+
+
+
 theme: readthedocs
