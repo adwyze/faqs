@@ -39,3 +39,17 @@ Upload your creatives, choose a CTA and utm source. You can create as many ads n
 Review your campaign and if everything looks good, click on **Publish Ads**. You can also go back to previous steps and your campaign, targeting and ads by clicking on the header links (steps).
 
 You can also either save all these settings as a global template or go ahead and push the campaign.
+
+
+###FAQs
+
+**How many creatives I can use in MPA**
+You can add upto 10 creatives while creating multi product ads
+
+**What's the limit on adsets in a campaign**
+You can create maximum 50 adsets in each campaign
+
+
+
+
+

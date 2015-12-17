@@ -1,0 +1,1 @@
+Insights help you discover how your campaigns are performing and bring in inferences

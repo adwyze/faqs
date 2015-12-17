@@ -1,5 +1,5 @@
-# Creating Rules to automate your campaigns
-
+### Rules 
+Rules help you to automate your campaigns, adsets and ads. This is a powerful feature to let you take automated actions based on multiple conditons occuring in your ad and analytics platforms.
 
 
 ### What is silence period?

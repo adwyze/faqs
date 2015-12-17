@@ -42,6 +42,9 @@ Give a name for the audience group, choose whether these are emails or phone num
 ### Instagram Ads
 To create Instagram ads ** Go to creation → create ads → create new instagram ads **
 
+You do not need to have any special instagram ad account to start running ads on Instagram. Once you have a facebook account linked (and have a user account in Instagram), you can directly start creating Instagram campaigns.
+
+
 ### How to add more ads to existing adset in a campaign?
 - Go to stats → adsets
 - Click on the adset in which you want to add more ads
