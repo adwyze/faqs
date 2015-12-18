@@ -44,9 +44,12 @@ You can also either save all these settings as a global template or go ahead and
 ###FAQs
 
 **How many creatives I can use in MPA**
+
 You can add upto 10 creatives while creating multi product ads
 
+
 **What's the limit on adsets in a campaign**
+
 You can create maximum 50 adsets in each campaign
 
 

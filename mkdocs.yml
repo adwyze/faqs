@@ -1,4 +1,4 @@
-site_name: Adwyze Documentation
+site_name: AdWyze Documentation
 pages:
 - "Getting Started": index.md
 - "Latest Updates": updates.md
