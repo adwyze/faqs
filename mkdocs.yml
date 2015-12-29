@@ -6,13 +6,13 @@ pages:
 - Campaigns: creation.md
 - "Facebook Campaigns": fbcampaigns.md
 - Rules: rules.md
-- Insights: insights.md
+# - Insights: insights.md
 - Troubleshooting: troubleshooting.md
 - Stats: reports.md
 - Preferences: preferences.md
-- Billing: billing.md
+# - Billing: billing.md
 - Support: support.md
-- "How-to Screencasts": videos.md
+# - "How-to Screencasts": videos.md
 
 
 theme: cosmo

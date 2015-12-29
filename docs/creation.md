@@ -1,4 +1,4 @@
-This page walks you through the FAQs in campaign creation.
+This page walks you through the campaign creation.
 
 
 ![Screenshot](img/creation1.png)
@@ -36,8 +36,8 @@ Give a name for the audience group, choose whether these are emails or phone num
 
 
 
-### Dynamic Product Ads
-
+<!-- ### Dynamic Product Ads
+ -->
 
 ### Instagram Ads
 To create Instagram ads ** Go to creation → create ads → create new instagram ads **
@@ -57,6 +57,6 @@ This ad gets saved in the adset.
 Right now, the platform doesn't allow you to edit campaigns. However, you can edit a saved template or add more ads 
 into adsets of any existing campaign.
 
-### Campaigns history?
+### Campaigns history
 You can see the “History” of the campaigns you created. Go to **Stats → History**
 
