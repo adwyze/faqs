@@ -41,7 +41,7 @@ Review your campaign and if everything looks good, click on **Publish Ads**. You
 You can also either save all these settings as a global template or go ahead and push the campaign.
 
 
-###FAQs
+### FAQs
 
 **How many creatives I can use in MPA**
 
