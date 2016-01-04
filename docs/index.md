@@ -34,22 +34,9 @@ After adding your facebook account, select the account and click the green butto
 
 ![Screenshot](img/add-fb3.png)
 
-Congrats! Your facebook ad account is successfully linked and is active. You can now start creating campaigns. Hold on! Before you proceed with creating ads, let's add your analytics account so we can accurately track the performance of your cmapaigns to measure ROI, ROAS and Avg order spend etc. in your dashboard.
+Congrats! Your facebook ad account is successfully linked and is active. You can now start creating campaigns.
+By default AdWyze uses the facebook analytics if you do not integrate any other analytics platform. 
 
 
-### GA account integration
-If you do not link any of your analytics accounts, the data is pulled from your FB analytics.
-
-![Screenshot](img/add-ga1.png)
-
-**Allow **AdIQ to access your google analytics account. This will bring in your GA data to your AdWyze platform.
-
-
-![Screenshot](img/add-ga2.png)
-
-Select the website profile from the list pulled from your GA account and click **Add These Google Analytics Accounts**
-
-
-Now, you have both your facebook ad account and GA accounts connected in your AdWyze platform.
-
-It's time to start creating campaigns in the platform.
+### Analytics Integration
+Now that you have integrated your facebook account, you can either integrate other analytics platforms you already use or go ahead with campaign creation
