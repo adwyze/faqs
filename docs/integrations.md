@@ -23,7 +23,7 @@ Select the website profile from the list pulled from your GA account and click *
 
 ### Commscore
 
-[Screenshot](img/add-commScore.png)
+![Screenshot](img/add-commScore.png)
 
 To integrate your Commscore analytics account with AdWyze, you need to fill in the following fileds.
 
@@ -43,7 +43,7 @@ Once the above info is filled and submitted, the integration happens.
 
 Go to add accounts -> Appsflyer to integrate your Appsflyer analytics account with AdWyze. 
 
-[Screenshot](img/add-appsFlyer.png)
+![Screenshot](img/add-appsFlyer.png)
 
 
 Fill the form with your android or iOS app ID, the application secret and submit it. Once these credentials are properly matched, AdWyze 
@@ -54,7 +54,7 @@ can access information from your Appsflyer account to show it in the dashboard.
 
 It's now possible to integrate your custom analytics with the new server-to-server (s2s) integration. We created an api for you to send custom metrics. We also released 'show API' for you to see what data we are storing on our platform. Take a look at this [integration guide](https://platform.adwyze.com/docs/v1/index.html) to connect your analytics to AdWyze. 
 
-[Screenshot](img/add-s2s.png)
+![Screenshot](img/add-s2s.png)
 
 Your app id and secret are generated. Keep them safe and use it for integrating with your custom analytics. Also, you can create custom metrics from this form.
 
