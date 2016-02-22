@@ -3,7 +3,7 @@
 A step by step process explaing how to get started with AdWyze
 
 
-![Screenshot](img/gettingStarted1.png)
+<!-- ![Screenshot](img/gettingStarted1.png)
 
 
 1. Add Accounts - Connect more of your analytic and ad platforms
@@ -14,7 +14,7 @@ A step by step process explaing how to get started with AdWyze
 6. Alerts - Get notified of crucial system and manual alerts you create
 7. Rules - IFTTT (If this then that) got your campaigns, adsets and ads
 8. Activity - Whole dashboard activity. Who has done what on your account
-
+ -->
 
 
 ### FB account integration
@@ -39,4 +39,4 @@ By default AdWyze uses the facebook analytics if you do not integrate any other 
 
 
 ### Analytics Integration
-Now that you have integrated your facebook account, you can either integrate other analytics platforms you already use or go ahead with campaign creation
+Now that you have integrated your facebook account, you can either integrate other analytics platforms you already use, play around with the insights or go ahead with campaign creation

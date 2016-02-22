@@ -2,6 +2,9 @@
 |---------------	|--------------------------------			|
 | 28th December 	| Bulk upload ads to selected adsets		|	
 | 26th December 	| Performance optimization 					|
+| 29th December 	| Fixed minor bugs in insights	 				|
+| 28th December 	| Bulk upload ads to selected adsets		|	
+| 26th December 	| Performance optimization 					|
 | 20th December 	| Heatmaps in the dashboard	 				|
 | 19th December		| Tagging campaigns, adsets & ads			|
 | 14th December 	| Server to server analytics integration   	|
