@@ -1,13 +1,16 @@
-| Date          	| Description                    			|
-|---------------	|--------------------------------			|
-| 28th December 	| Bulk upload ads to selected adsets		|	
-| 26th December 	| Performance optimization 					|
-| 29th December 	| Fixed minor bugs in insights	 				|
-| 28th December 	| Bulk upload ads to selected adsets		|	
-| 26th December 	| Performance optimization 					|
-| 20th December 	| Heatmaps in the dashboard	 				|
-| 19th December		| Tagging campaigns, adsets & ads			|
-| 14th December 	| Server to server analytics integration   	|
-| 11th December 	| Dynamic product ads UI revampification 	|
-| 10th December 	| Stats page latency decrease	 			|
-|  9th December		| Tagging campaigns, adsets & ads			|
+| Date          	| Description                    						|
+|---------------	|-------------------------------------------------------|
+| January 2016	 	| Updated nav bar to choose web & mobile analytics		|
+| January 2016	 	| Server to server metrics								|
+| January 2016	 	| Option to choose new facebook pixel					|
+| January 2016	 	| Server to server metrics								|	
+| January 2016	 	| Apsflyer integration 									|
+| 29th December 	| Fixed minor bugs in insights	 						|
+| 28th December 	| Bulk upload ads to selected adsets					|	
+| 26th December 	| Performance optimization 								|
+| 20th December 	| Heatmaps in the dashboard	 							|
+| 19th December		| Tagging campaigns, adsets & ads						|
+| 14th December 	| Server to server analytics integration   				|
+| 11th December 	| Dynamic product ads UI revampification 				|
+| 10th December 	| Stats page latency decrease	 						|
+|  9th December		| Tagging campaigns, adsets & ads						|
