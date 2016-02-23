@@ -1,7 +1,6 @@
 | Date          	| Description                    						|
 |---------------	|-------------------------------------------------------|
 | January 2016	 	| Updated nav bar to choose web & mobile analytics		|
-| January 2016	 	| Server to server metrics								|
 | January 2016	 	| Option to choose new facebook pixel					|
 | January 2016	 	| Server to server metrics								|	
 | January 2016	 	| Apsflyer integration 									|
