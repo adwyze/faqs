@@ -1,5 +1,11 @@
 | Date          	| Description                    						|
 |---------------	|-------------------------------------------------------|
+| February 2016	 	| Toggle for "all accounts" in Insights page			|
+| February 2016	 	| Support for mobile app events							|
+| February 2016	 	| Default analytics setting in company preferences		|
+| February 2016	 	| Bug fix - Reach error in audience targeting			|
+| February 2016	 	| Flash success and error messages						|	
+| February 2016	 	| Trends showcase (tab under Insights)			 		|
 | January 2016	 	| Updated nav bar to choose web & mobile analytics		|
 | January 2016	 	| Option to choose new facebook pixel					|
 | January 2016	 	| Server to server metrics								|	
