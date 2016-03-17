@@ -24,14 +24,27 @@ Let's see how to create a template using Image Editor. It's simple to use with a
 
 - Go to creation → Image Templates
 - Click on “Create Template”
-- Choose from the set of base images - either from one of your recent images or from the feed. These just act as the base image for the template. When you apply a template to any product image, that product image gets replaced here in the place of the base image.
+- Choose from the set of base images - either from one of your recent images or from the feed. These just act as the base image for the template. When you apply a template to any product image (during ad creation), that product image gets replaced here in the place of the base image.
 - You can add text, change font, font size & color, add border of the image, resize image or even add one more image on top of the base image.
 - Image editor also supports dynamic texts that gets replaced with the actual value from the feed
 e.g: You can add a text, Get product.title for product.price and while creating a DPA ad, it automagically replaces with the right product tile and price from your feed.
 
 
+### DPA Prospecting
+If you think DPA is only for retargeting, then you are in for a pleasant surprise. DPA - Prospecting is a way AdWyze helps you create regular ads in bulk just by using your existing feed. The targeting still remains the same as the only you use for facebook targeting, whereas in the ads section. 
+
+
+- Go to Creation → DPA prospecting
+- Fill out the campaign and targeting sections (as you'd fill out for normal facebook ad creation) and go to Ads section
+- In Ads section, choose the product feed and product set. You can also create new product set on the chosen product feed here in this section. by applying filters to the feed.
+- Once you finish choosing your product feed and product set, go ahead and fill out other details for your ad.
+- You can create upto 20 ads, can choose how many images an ad should have (If you select more than 1 image per ad, MPA carousel ad gets created) and even select which column to fetch from the feed for the base image. 
+- Now in the preview, select the Image template you have already created. The template gets applied to all the image. Wait a while for the preview to get updated with the image template. 
+
+
+
 ### Product Sets
-To create new product setgs, go to **creation → product sets → choose feed → add new set**
+Go to "Creation" and select DPA ads (either DPA retargeting or DPA prospecting). In the ads section, select the feed and proceed to create product sets by applying filters on the feed.
 
 
 ### Custom Audience
