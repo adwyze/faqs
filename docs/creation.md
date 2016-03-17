@@ -17,6 +17,18 @@ You campaign settings can be reused (cloned to save time) allowing you to modify
 ### How to create global templates?
 At the final step of campaign creation, you can save the entire template - campaign, targeting, ads, pricing & schedule as a single global template. The next time you want to create a campaign, you can directly choose this global template from the dropdown and all the entire template loads. Proceed with necessary changes (in campaign, targeting, ad or scheduling sections) and publish. You can also save this modified template as a new global template again.
 
+### Image Editor
+AdWyze has an inbuilt Image Editor you can use to create templates and apply them while creating your ads - be it single image ads, MPA or even dynamic product ads (DPA).
+
+Let's see how to create a template using Image Editor. It's simple to use with almost no learning curve.
+
+- Go to creation → Image Templates
+- Click on “Create Template”
+- Choose from the set of base images - either from one of your recent images or from the feed. These just act as the base image for the template. When you apply a template to any product image, that product image gets replaced here in the place of the base image.
+- You can add text, change font, font size & color, add border of the image, resize image or even add one more image on top of the base image.
+- Image editor also supports dynamic texts that gets replaced with the actual value from the feed
+e.g: You can add a text, Get product.title for product.price and while creating a DPA ad, it automagically replaces with the right product tile and price from your feed.
+
 
 ### Product Sets
 To create new product setgs, go to **creation → product sets → choose feed → add new set**
