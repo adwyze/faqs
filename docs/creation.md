@@ -31,16 +31,18 @@ e.g: You can add a text, Get product.title for product.price and while creating 
 
 
 ### DPA Prospecting
-If you think DPA is only for retargeting, then you are in for a pleasant surprise. DPA - Prospecting is a way AdWyze helps you create regular ads in bulk just by using your existing feed. The targeting still remains the same as the only you use for facebook targeting, whereas in the ads section. 
+If you think DPA is only for retargeting, then you are in for a pleasant surprise. DPA - Prospecting is a way AdWyze helps you create regular ads in bulk just by using your existing feed. The targeting still remains the same as the one you use for creation regular facebook ads.
 
 
 - Go to Creation → DPA prospecting
 - Fill out the campaign and targeting sections (as you'd fill out for normal facebook ad creation) and go to Ads section
 - In Ads section, choose the product feed and product set. You can also create new product set on the chosen product feed here in this section. by applying filters to the feed.
-- Once you finish choosing your product feed and product set, go ahead and fill out other details for your ad.
+- Once you finish choosing your product feed and product set, go ahead and fill out other details for your ad. These ad details can be dynamically obtained from your feed by clicking on the "+" button beside each field and choosing which column title from your feed.
 - You can create upto 20 ads, can choose how many images an ad should have (If you select more than 1 image per ad, MPA carousel ad gets created) and even select which column to fetch from the feed for the base image. 
 - Now in the preview, select the Image template you have already created. The template gets applied to all the image. Wait a while for the preview to get updated with the image template. 
 
+
+Click "next", fill the pricing & schedule sections to publish your new ads with modified images. 
 
 
 ### Product Sets
