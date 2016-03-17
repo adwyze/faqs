@@ -20,6 +20,10 @@ At the final step of campaign creation, you can save the entire template - campa
 ### Image Editor
 AdWyze has an inbuilt Image Editor you can use to create templates and apply them while creating your ads - be it single image ads, MPA or even dynamic product ads (DPA).
 
+
+![Screenshot](http://res.cloudinary.com/depce28yo/image/upload/v1457608640/email-assets/pudates/output_eHYrna.gif)
+
+
 Let's see how to create a template using Image Editor. It's simple to use with almost no learning curve.
 
 - Go to creation → Image Templates
