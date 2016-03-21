@@ -1,21 +1,6 @@
-This page walks you through the campaign creation.
+This page walks you through the various sections of creation.
 
 
-![Screenshot](img/creation1.png)
-
-1. Go to Created → Ad creation
-2. Choose a global template (you can save ad settings as global templates to reuse)
-3. Create facebook ads
-4. Create Instragram ads - You do not need to link your instagram account. The instagram accounts run from your linked facebook ad account
-
-
-
-### What are global templates?
-You campaign settings can be reused (cloned to save time) allowing you to modify only the fields that you want to change while creating a new campaign.
-
-
-### How to create global templates?
-At the final step of campaign creation, you can save the entire template - campaign, targeting, ads, pricing & schedule as a single global template. The next time you want to create a campaign, you can directly choose this global template from the dropdown and all the entire template loads. Proceed with necessary changes (in campaign, targeting, ad or scheduling sections) and publish. You can also save this modified template as a new global template again.
 
 ### Image Editor
 AdWyze has an inbuilt Image Editor you can use to create templates and apply them while creating your ads - be it single image ads, MPA or even dynamic product ads (DPA).
@@ -90,4 +75,13 @@ into adsets of any existing campaign.
 
 ### Campaigns history
 You can see the “History” of the campaigns you created. Go to **Stats → History**
+
+###FAQs
+## What are global templates?
+You campaign settings can be reused (cloned to save time) allowing you to modify only the fields that you want to change while creating a new campaign.
+
+
+## How to create global templates?
+At the final step of campaign creation, you can save the entire template - campaign, targeting, ads, pricing & schedule as a single global template. The next time you want to create a campaign, you can directly choose this global template from the dropdown and all the entire template loads. Proceed with necessary changes (in campaign, targeting, ad or scheduling sections) and publish. You can also save this modified template as a new global template again.
+
 

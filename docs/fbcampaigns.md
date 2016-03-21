@@ -1,6 +1,14 @@
-After selecting **Create FB campaign** in the ad creation page you proceed with the creation of fb campaign.
+After selecting **Facebook** in the ad creation page you proceed with the creation of fb campaign.
 
-### Creating an ad campaign
+![Screenshot](img/creation1.png)
+
+1. Go to Created → Ad creation
+2. Choose a global template (you can save ad settings as global templates to reuse)
+3. Create facebook ads
+4. Create Instragram ads - You do not need to link your instagram account. The instagram accounts run from your linked facebook ad account
+
+
+### Creating a regular facebook ad campaign
 
 ![Screenshot](img/creation2-campaign.png)
 

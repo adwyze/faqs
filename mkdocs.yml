@@ -3,13 +3,15 @@ pages:
 - "Getting Started": index.md
 - "Latest Updates": updates.md
 - Integrations: integrations.md
-- Campaigns: creation.md
-- "Facebook Campaigns": fbcampaigns.md
+- Creation: 
+	- "Quick start": fbcampaigns.md
+	- "Creation": creation.md
 - Rules: rules.md
 # - Insights: insights.md
+- Preferences: preferences.md
 - Troubleshooting: troubleshooting.md
 # - Stats: reports.md
-- Preferences: preferences.md
+
 # - Billing: billing.md
 - Support: support.md
 # - "How-to Screencasts": videos.md
