@@ -4,8 +4,8 @@ pages:
 - "Latest Updates": updates.md
 - Integrations: integrations.md
 - Creation: 
-- "Quick start": fbcampaigns.md
-- "Creation": creation.md
+- 'Quick start': 'creation/fbcampaigns.md'
+- 'Creation': 'creation/creation.md'
 - Rules: rules.md
 # - Insights: insights.md
 - Preferences: preferences.md
