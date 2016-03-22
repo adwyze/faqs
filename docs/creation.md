@@ -76,12 +76,12 @@ into adsets of any existing campaign.
 ### Campaigns history
 You can see the “History” of the campaigns you created. Go to **Stats → History**
 
-###FAQs
-## What are global templates?
+### FAQs
+**What are global templates?**
 You campaign settings can be reused (cloned to save time) allowing you to modify only the fields that you want to change while creating a new campaign.
 
 
-## How to create global templates?
+**How to create global templates?**
 At the final step of campaign creation, you can save the entire template - campaign, targeting, ads, pricing & schedule as a single global template. The next time you want to create a campaign, you can directly choose this global template from the dropdown and all the entire template loads. Proceed with necessary changes (in campaign, targeting, ad or scheduling sections) and publish. You can also save this modified template as a new global template again.
 
 
