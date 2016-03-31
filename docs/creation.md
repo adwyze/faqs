@@ -47,15 +47,18 @@ Once the product catalog is created, to use these custom label fields during ad 
 
 To run dynamic product ads, you need to have atleast one product feed. Once you have the feed uploaded and is ready to use, navigate to Creation -> DPA
 
-1. Fill in the campaign details. Select a product feed and product catalog
+1. Fill in the campaign details. Select a Product feed and Product catalog
 2. In the Targeting section, choose a product set. You can also create a product set here. A product set is a collection of items from your feed chosen by the filter conditions you apply. Once the product set is chosen, proceed with the other targeting options
-3. In the Ads section, you get to choose the image field (from which column of the feed should we take up the ad image) and also specify the number of product per ad. If more than 1 image per ad is chosen, carousel ads (MPA) get created.
-4. In the text, headline and description fields, you can dynamically choose the fields from your feed by clicking on the "+" button
+3. In the Ads section, you get to choose the image field (from which column of the feed should we take up the ad image) and also specify the number of products per ad. If more than 1 product per ad is chosen, carousel ads (MPA) get created.
+4. In the text, headline and description fields, you can dynamically choose the fields from your feed by clicking on the "+" button. If you have trouble with editing the headline after choosing tokens from "+" button, it's mostly to with the character limit of the field. 
 5. Apply an image template by clicking on the "Edit Image" on the top of the ad preview. Please wait a while for the preview to get updated with the image template. Modified images for your ads are created with just a click :)
 
 
 The live ad preview in the right gets instantly updated with the real values of the tokens from your feed too. 
 You now have your dynamic product ads ready. Go head with pricing & scheduling and publish the ads. 
+
+Pro tip: You can use also token from your feed in the text area of image editor while creating an image template.
+e.g: If you have {{product.brand}} as text on your image, it actually prints in the brand's name (fetched from brand field in your feed) on the image. If you apply this template in the DPA/SPA you can see the brand name on the preview images too.
 
 
 ### SPA - Static Product Ads
