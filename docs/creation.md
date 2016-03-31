@@ -57,8 +57,8 @@ To run dynamic product ads, you need to have atleast one product feed. Once you 
 The live ad preview in the right gets instantly updated with the real values of the tokens from your feed too. 
 You now have your dynamic product ads ready. Go head with pricing & scheduling and publish the ads. 
 
-Pro tip: You can use also token from your feed in the text area of image editor while creating an image template.
-e.g: If you have {{product.brand}} as text on your image, it actually prints in the brand's name (fetched from brand field in your feed) on the image. If you apply this template in the DPA/SPA you can see the brand name on the preview images too.
+Pro tip: You can use token (a placeholder to replace with the actual value) from your feed in the text area of image editor while creating an image template.
+e.g: If you have {{product.brand}} as text on your image (with the double flower brackets), it actually prints in the brand's name (fetched from brand field in your feed) on the image. If you apply this template in the DPA/SPA you can see the brand name on the preview images too.
 
 
 ### SPA - Static Product Ads
