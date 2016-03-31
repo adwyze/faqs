@@ -19,8 +19,46 @@ Let's see how to create a template using Image Editor. It's simple to use with a
 e.g: You can add a text, Get product.title for product.price and while creating a DPA ad, it automagically replaces with the right product tile and price from your feed.
 
 
+### Product Feed
+
+You can create a product feed by going to Creation -> Product feeds section.
+
+1. Give a name for your feed
+2. Enter your hosted feed URL or upload your feed file
+3. Choose the file type that you used in the step2 (either xml or csv)
+4. Set update interval (in hours) - how often do you want us to fetch the updates from your hosted feed
+
+After you fill the form and hit 'save', we will notify you once the feed is processed and ready to be used in your DPA or SPA
+
+### Product Catalog
+
+By default we create a product catalog once the feed is ready. But if your feed has any custom columns, you need to map them with the custom label fields to use them during DPA/SPA ad creation.
+
+You can create a product catalog by going to Creation -> Product Catalog section.
+1. Click on 'create product catalog'
+2. Choose the product feed from the dropdown from which you want to create a catalog
+3. Map the custom labels (0 to 4) to the additional fields you have in your feed and 'save'
+
+Once the product catalog is created, to use these custom label fields during ad creation, you need to choose this product catalog at ad creation.
+
+
+### DPA - Dynamic Product Ads
+
+To run dynamic product ads, you need to have atleast one product feed. Once you have the feed uploaded and is ready to use, navigate to Creation -> DPA
+
+1. Fill in the campaign details
+2. In the Targeting section, choose a product set. You can also create a product set here. A product set is a collection of items from your feed chosen by the filter conditions you apply. Once the product set is chosen, proceed with the other targeting options
+3. In the Ads section, you get to choose the image field (from which column of the field should we take up the ad image) and also specify the number of product per ad. If more than 1 image per ad is chosen, carousel ads (MPA) get created.
+4. In the text, headline and description fields, you can dynamically choose the fields from your feed by clicking on the "+" button
+5. Apply an image template by clicking on the "Edit Image" on the top of the ad preview. Please wait a while for the preview to get updated with the image template. Modified images for your ads are created with just a click :)
+
+
+The live ad preview in the right gets instantly updated with the real values of the tokens from your feed too. 
+You now have your dynamic product ads ready. Go head with pricing & scheduling and publish the ads. 
+
+
 ### SPA - Static Product Ads
-Static Product Ads (SPA) is a way AdWyze helps you create regular ads in bulk just by using your existing feed. The targeting still remains the same as the one you use for creation of regular facebook ads.
+Static Product Ads (SPA) is a way AdWyze helps you create regular ads in bulk by using your product feed. The targeting still remains the same as the one you use for creation of regular facebook ads.
 
 
 - Go to Creation → Static Product Ads
