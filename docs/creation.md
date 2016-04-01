@@ -16,7 +16,7 @@ Let's see how to create a template using Image Editor. It's simple to use with a
 - Choose from the set of base images - either from one of your recent images or from the feed. These just act as the base image for the template. When you apply a template to any product image (during ad creation), that product image gets replaced here in the place of the base image.
 - You can add text, change font, font size & color, add border of the image, resize image or even add one more image on top of the base image.
 - Image editor also supports dynamic texts that gets replaced with the actual value from the feed
-e.g: You can add a text, Get product.title for product.price and while creating a DPA ad, it automagically replaces with the right product tile and price from your feed.
+e.g: You can add a text, "Get {{product.title}} for 30% OFF" and while creating a DPA ad, it automagically replaces with the right product tile and price from your feed.
 
 
 ### Product Feed
