@@ -1,5 +1,14 @@
 | Date          	| Description                    						|
 |---------------	|-------------------------------------------------------|
+| April 2016	 	| UI update to selection of tabs in targeting page		|
+| March 2016	 	| "Audience Network" placement option in targeting		|
+| March 2016	 	| Bug fix - product set creation						|
+| March 2016	 	| Image Editor & static product ads private release		|
+| March 2016	 	| Derived metrics (custom) tiles setup 					|
+| March 2016	 	| Advanced options in Custom Audience Creation			|
+| March 2016	 	| Downloadable CSV reports for all Stats				|
+| March 2016	 	| Custom UTM parameter mapping							|
+| March 2016	 	| Custom naming convention for campaigins, adsets & ads	|
 | February 2016	 	| Toggle for "all accounts" in Insights page			|
 | February 2016	 	| Support for mobile app events							|
 | February 2016	 	| Default analytics setting in company preferences		|
