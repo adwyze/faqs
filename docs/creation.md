@@ -18,6 +18,9 @@ Let's see how to create a template using Image Editor. It's simple to use with a
 - Image editor also supports dynamic texts that gets replaced with the actual value from the feed
 e.g: You can add a text, "Get {{product.title}} for 30% OFF" and while creating a DPA ad, it automagically replaces with the right product tile and price from your feed.
 
+Here's a video explaining in detail on how to use Image Editor. 
+[Watch Video](https://www.youtube.com/watch?v=fWqr8-Kngyo)
+
 
 ### Product Feed
 

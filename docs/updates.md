@@ -1,5 +1,7 @@
 | Date          	| Description                    						|
 |---------------	|-------------------------------------------------------|
+| April 2016	 	| Image Editor and SPA (static product ads)	released 	|
+| April 2016	 	| Android Mobile app released in play store		 		|
 | April 2016	 	| UI update to selection of tabs in targeting page		|
 | March 2016	 	| "Audience Network" placement option in targeting		|
 | March 2016	 	| Bug fix - product set creation						|
