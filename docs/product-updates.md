@@ -18,8 +18,6 @@ What if you could create 100s of ads at once and not have to upload each creativ
 
 **Mobile App**
 
-![Mobile App](http://res.cloudinary.com/depce28yo/image/upload/v1457439292/email-assets/onboarding/phone_icon.png)
-
 Remember? In the earlier product update, we promised to roll our mobile app for you to look at the stats on the go or even toggle your campaigns/adsets on-off. [Download](https://play.google.com/store/apps/details?id=com.ionicframework.adwyze109328&hl=en) today from the Android Playstore.
 
 Care for iOS app? Let us know!
