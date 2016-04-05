@@ -17,9 +17,10 @@ What if you could create 100s of ads at once and not have to upload each creativ
 
 
 **Mobile App**
+
 ![Mobile App](http://res.cloudinary.com/depce28yo/image/upload/v1457439292/email-assets/onboarding/phone_icon.png)
 
-Remember? In the earlier product update, we promised to roll our mobile app for you to look at the stats on the go or even toggle your campaigns/adsets on-off. [Download](http://res.cloudinary.com/depce28yo/image/upload/v1457605359/email-assets/pudates/output_TwhSN6.gif) today from the Android Playstore.
+Remember? In the earlier product update, we promised to roll our mobile app for you to look at the stats on the go or even toggle your campaigns/adsets on-off. [Download](https://play.google.com/store/apps/details?id=com.ionicframework.adwyze109328&hl=en) today from the Android Playstore.
 
 Care for iOS app? Let us know!
 
@@ -35,7 +36,9 @@ Moving ahead, you can follow our product updates as they happen [here](http://do
 
 What do you think about these updates - more importantly I'd love for you to use the new image editor with SPA and DPA ads and let us know how it worked for you. Feel free to reach out to us with any questions and feedback.
 
+
 Thank you,
+
 AdWyze Team
 
 
